@@ -1,0 +1,11 @@
+- fecha: Jueves 21 de Diciembre de 2023
+  - id: 620c2b09f6fae9e2f6a7
+    fecha:Jueves 21 de Diciembre de 2023
+    exception:Exception
+    message:Message
+    clase:Clase
+  - id: 7f0d276e7cb8fb047e9b
+    fecha:Jueves 21 de Diciembre de 2023
+    exception:Baezeta\Catcher\Exceptions\NumeroNoEsEnteroException
+    message:numero_no_es_un_entero_domain_exception_000
+    clase:null
