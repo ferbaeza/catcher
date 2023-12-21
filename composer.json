@@ -3,7 +3,7 @@
     "description": "Library to get the errors after a cath",
     "autoload": {
         "files": [
-                "src/functions/functions.php"
+                "src/Utils/functions/functions.php"
         ],
         "psr-4": {
             "Baezeta\\Catcher\\": "src/",
